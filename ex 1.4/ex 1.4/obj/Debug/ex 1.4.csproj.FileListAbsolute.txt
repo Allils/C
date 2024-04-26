@@ -1,0 +1,8 @@
+C:\C-my projects\C#\ex 1.4\ex 1.4\obj\Debug\ex 1.4.csproj.AssemblyReference.cache
+C:\C-my projects\C#\ex 1.4\ex 1.4\obj\Debug\ex 1.4.csproj.SuggestedBindingRedirects.cache
+C:\C-my projects\C#\ex 1.4\ex 1.4\obj\Debug\ex 1.4.csproj.CoreCompileInputs.cache
+C:\C-my projects\C#\ex 1.4\ex 1.4\bin\Debug\ex 1.4.exe.config
+C:\C-my projects\C#\ex 1.4\ex 1.4\bin\Debug\ex 1.4.exe
+C:\C-my projects\C#\ex 1.4\ex 1.4\bin\Debug\ex 1.4.pdb
+C:\C-my projects\C#\ex 1.4\ex 1.4\obj\Debug\ex 1.4.exe
+C:\C-my projects\C#\ex 1.4\ex 1.4\obj\Debug\ex 1.4.pdb

@@ -1,0 +1,8 @@
+C:\C-my projects\C#\ex1.2\ex1.2\bin\Debug\ex1.2.exe.config
+C:\C-my projects\C#\ex1.2\ex1.2\bin\Debug\ex1.2.exe
+C:\C-my projects\C#\ex1.2\ex1.2\bin\Debug\ex1.2.pdb
+C:\C-my projects\C#\ex1.2\ex1.2\obj\Debug\ex1.2.csproj.AssemblyReference.cache
+C:\C-my projects\C#\ex1.2\ex1.2\obj\Debug\ex1.2.csproj.SuggestedBindingRedirects.cache
+C:\C-my projects\C#\ex1.2\ex1.2\obj\Debug\ex1.2.csproj.CoreCompileInputs.cache
+C:\C-my projects\C#\ex1.2\ex1.2\obj\Debug\ex1.2.exe
+C:\C-my projects\C#\ex1.2\ex1.2\obj\Debug\ex1.2.pdb

@@ -1,0 +1,7 @@
+C:\C-my projects\C#\ex 1.3\ex 1.3\bin\Debug\ex 1.3.exe.config
+C:\C-my projects\C#\ex 1.3\ex 1.3\bin\Debug\ex 1.3.exe
+C:\C-my projects\C#\ex 1.3\ex 1.3\bin\Debug\ex 1.3.pdb
+C:\C-my projects\C#\ex 1.3\ex 1.3\obj\Debug\ex 1.3.csproj.AssemblyReference.cache
+C:\C-my projects\C#\ex 1.3\ex 1.3\obj\Debug\ex 1.3.csproj.CoreCompileInputs.cache
+C:\C-my projects\C#\ex 1.3\ex 1.3\obj\Debug\ex 1.3.exe
+C:\C-my projects\C#\ex 1.3\ex 1.3\obj\Debug\ex 1.3.pdb
