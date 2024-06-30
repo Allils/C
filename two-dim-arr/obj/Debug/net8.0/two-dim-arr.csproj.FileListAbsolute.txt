@@ -1,0 +1,14 @@
+C:\C-my projects\C#\solution\two-dim-arr\bin\Debug\net8.0\two-dim-arr.exe
+C:\C-my projects\C#\solution\two-dim-arr\bin\Debug\net8.0\two-dim-arr.deps.json
+C:\C-my projects\C#\solution\two-dim-arr\bin\Debug\net8.0\two-dim-arr.runtimeconfig.json
+C:\C-my projects\C#\solution\two-dim-arr\bin\Debug\net8.0\two-dim-arr.dll
+C:\C-my projects\C#\solution\two-dim-arr\bin\Debug\net8.0\two-dim-arr.pdb
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.AssemblyInfoInputs.cache
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.AssemblyInfo.cs
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.csproj.CoreCompileInputs.cache
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.dll
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\refint\two-dim-arr.dll
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.pdb
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\two-dim-arr.genruntimeconfig.cache
+C:\C-my projects\C#\solution\two-dim-arr\obj\Debug\net8.0\ref\two-dim-arr.dll
