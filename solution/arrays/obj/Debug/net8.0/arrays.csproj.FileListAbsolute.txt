@@ -1,0 +1,14 @@
+C:\C-my projects\C#\solution\arrays\bin\Debug\net8.0\arrays.exe
+C:\C-my projects\C#\solution\arrays\bin\Debug\net8.0\arrays.deps.json
+C:\C-my projects\C#\solution\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+C:\C-my projects\C#\solution\arrays\bin\Debug\net8.0\arrays.dll
+C:\C-my projects\C#\solution\arrays\bin\Debug\net8.0\arrays.pdb
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.dll
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\refint\arrays.dll
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.pdb
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+C:\C-my projects\C#\solution\arrays\obj\Debug\net8.0\ref\arrays.dll
