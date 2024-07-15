@@ -10,9 +10,14 @@ DisplayInfo display = new DisplayInfo();
 
 
 
-AllLibrary library = new AllLibrary(
-    new ConsoleBookReader(), new GeneralBookBinder(),
-    new GeneralBookValidator());
+AllLibrary library =
+    new AllLibrary
+    (
+    new ConsoleBookReader(),
+    new GeneralBookBinder(),
+    new GeneralBookValidator()
+    );
+
 library.Process(books.BookList);
 
 serialization.DeserializeXML(books.BookList);
